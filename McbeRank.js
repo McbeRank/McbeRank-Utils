@@ -74,6 +74,6 @@
 
 	// html
 	if(isHtml()){
-		window.McbeRank = new McbeRank("/");
+		window.McbeRank = new McbeRank("./");
 	}
 }());
